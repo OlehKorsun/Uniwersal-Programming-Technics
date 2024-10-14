@@ -1,6 +1,6 @@
 /**
  *
- *  @author Korsun Oleh S30911
+ *  @author Korsun Oleh
  *
  */
 
