@@ -1,9 +1,3 @@
-/**
- *
- *  @author Korsun Oleh S30911
- *
- */
-
 package zad2;
 
 import java.io.IOException;
