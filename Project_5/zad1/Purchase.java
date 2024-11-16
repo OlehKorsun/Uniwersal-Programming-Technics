@@ -1,9 +1,3 @@
-/**
- *
- *  @author Korsun Oleh S30911
- *
- */
-
 package zad1;
 
 import java.util.Comparator;
